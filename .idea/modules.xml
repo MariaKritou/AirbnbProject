@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PropertyManager-master.iml" filepath="$PROJECT_DIR$/.idea/PropertyManager-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertyManager-master/springboot2-mssql-jpa-hibernate-crud-example.iml" filepath="$PROJECT_DIR$/PropertyManager-master/springboot2-mssql-jpa-hibernate-crud-example.iml" />
+    </modules>
+  </component>
+</project>
